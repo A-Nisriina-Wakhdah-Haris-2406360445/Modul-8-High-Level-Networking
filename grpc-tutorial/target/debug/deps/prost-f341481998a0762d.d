@@ -1,0 +1,11 @@
+C:\Users\ninap\OneDrive\Dokumen\Advanced Programming\Modul-8-High-Level-Networking\grpc-tutorial\target\debug\deps\prost-f341481998a0762d.d: C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\lib.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\error.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\message.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\name.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\types.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\encoding.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\../README.md
+
+C:\Users\ninap\OneDrive\Dokumen\Advanced Programming\Modul-8-High-Level-Networking\grpc-tutorial\target\debug\deps\libprost-f341481998a0762d.rmeta: C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\lib.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\error.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\message.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\name.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\types.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\encoding.rs C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\../README.md
+
+C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\lib.rs:
+C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\error.rs:
+C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\message.rs:
+C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\name.rs:
+C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\types.rs:
+C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\encoding.rs:
+C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\prost-0.12.6\src\../README.md:
