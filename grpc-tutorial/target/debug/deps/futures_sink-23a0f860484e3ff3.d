@@ -1,5 +1,0 @@
-C:\Users\ninap\OneDrive\Dokumen\Advanced Programming\Modul-8-High-Level-Networking\grpc-tutorial\target\debug\deps\futures_sink-23a0f860484e3ff3.d: C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-sink-0.3.32\src\lib.rs
-
-C:\Users\ninap\OneDrive\Dokumen\Advanced Programming\Modul-8-High-Level-Networking\grpc-tutorial\target\debug\deps\libfutures_sink-23a0f860484e3ff3.rmeta: C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-sink-0.3.32\src\lib.rs
-
-C:\Users\ninap\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\futures-sink-0.3.32\src\lib.rs:

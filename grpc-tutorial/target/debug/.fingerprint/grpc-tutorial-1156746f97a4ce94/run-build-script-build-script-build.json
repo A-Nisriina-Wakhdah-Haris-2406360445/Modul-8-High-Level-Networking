@@ -1,1 +1,0 @@
-{"rustc":3674164131150989441,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[15944361598424432716,"build_script_build",false,10031486893805077830]],"local":[{"RerunIfChanged":{"output":"debug\\build\\grpc-tutorial-1156746f97a4ce94\\output","paths":["proto/services.proto","proto"]}}],"rustflags":[],"config":0,"compile_kind":0}
