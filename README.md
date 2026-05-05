@@ -24,7 +24,7 @@ Cocok untuk aplikasi chat, multiplayer game, real-time collaboration, dan live m
     1. Bagaimana memastikan hanya client yang valid yang bisa mengakses service
     2. Bagaimana cara mencegah token dicuri atau disalahgunakan
     3. Potensi pencurian token atau replay attack
-    <br>
+
     - Pendekatan yang dapat dilakukan pada gRPC Rust:
     1. Menggunakan TLS mutual authentication (mTLS) untuk verifikasi dua arah (client & server)
     2. Menggunakan token-based authentication seperti JWT (JSON Web Token)
@@ -35,7 +35,7 @@ Cocok untuk aplikasi chat, multiplayer game, real-time collaboration, dan live m
     2. Risiko unauthorized access ke data atau fungsi sensitif
     3. Potensi privilege escalation
     4. Apakah sudah menerapkan prinsip least privilege dan pembatasan akses endpoint
-    <br>
+
     - Pendekatan yang dapat dilakukan pada gRPC Rust:
     1. Menerapkan Role-Based Access Control (RBAC)
     2. Menerapkan Attribute-Based Access Control (ABAC)
@@ -46,7 +46,7 @@ Cocok untuk aplikasi chat, multiplayer game, real-time collaboration, dan live m
     2. Risiko Man-in-the-Middle (MITM) jika tidak dienkripsi
     3. Apakah data sensitif terlindungi selama transmisi
     4. Validitas dan manajemen sertifikat
-    <br>
+
     - Pendekatan yang dapat dilakukan pada gRPC Rust:
     1. Menggunakan TLS (Transport Layer Security) untuk semua koneksi gRPC
     2. Menggunakan sertifikat yang valid dan trusted
